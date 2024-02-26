@@ -134,7 +134,7 @@ main a:hover {
 }
 div.video{
     background-color: var(--cor5);
-    padding: 200px;
+    padding: 100px;
     padding-bottom: 50%;
     position: relative;
     
@@ -146,11 +146,12 @@ div.video >iframe {
     left: 5%;
     width: 90%;
     height: 300px;
-    padding-top: 60px;
+    padding-top: px;
   
   
 }
 aside {
+    margin-top: 200px;
     background-color: var(--cor1);
     padding: 10px;
     border-radius: 10px;
