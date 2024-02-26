@@ -141,6 +141,9 @@ div.video{
 }
 div.video >iframe {
     border-radius: 10px;
+    position: relative;
+    width: 70%;
+    height: 200px;
   
   
 }
