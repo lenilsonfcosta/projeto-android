@@ -53,6 +53,7 @@ header > p {
     padding-left: 10px;
     padding-right: 10px;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.29);
+    padding-bottom: 50PX;
 }
 nav{
     background-color: var(--cor5);
